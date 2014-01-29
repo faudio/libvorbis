@@ -1,0 +1,12 @@
+*.lo
+*.pc
+Makefile
+lib
+config*
+doc/Doxyfile
+doc/doxygen-build.stamp
+examples/.deps/
+libtool
+stamp-h1
+test/.deps/
+vq/.deps/
