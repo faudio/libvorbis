@@ -10,3 +10,4 @@ libtool
 stamp-h1
 test/.deps/
 vq/.deps/
+libvorbis.spec
